@@ -1,70 +1,136 @@
-# Hi there, I'm Sanka Liyanage 👋 
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Shanka%20Liyanage&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Graduate%20%7C%20Web%20Developer%20%7C%20QA%20Enthusiast&descAlignY=58&descAlign=50" />
+</p>
 
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+clean+%26+modern+digital+experiences;Web+Development+%7C+Databases+%7C+UI+Design;Focused+on+quality%2C+usability%2C+and+performance" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Shanka214?label=Followers&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/Shanka214?label=Stars&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-16a34a?style=for-the-badge" />
+</p>
+
+---
+
+## 👋 About Me
+
+<table>
+<tr>
+<td width="55%">
+
+Hi, I’m **Shanka** — a Software Engineering graduate passionate about building clean, modern, and user-friendly digital products.
+
+I enjoy working on:
+- Web development  
+- UI/UX design  
+- Databases & data systems  
+- QA & software testing  
+
+I focus on creating projects that are not just functional, but also **simple, polished, and impactful**.
+
+</td>
+<td width="45%">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 What I Do
+
+
+Web Development     ██████████░░
+UI/UX Design        ████████░░░░
+Databases           █████████░░░
+Data Visualization  ███████░░░░░
+QA / Testing        ████████░░░░░
+
+
+---
+
+## 🛠️ Skills & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,cs,python,java,mysql,figma,wordpress,git,github,vscode" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+### 🎟️ StarEvents Ticketing System
+Event booking platform with QR tickets, payments, and admin analytics.  
+**Tech:** ASP.NET, C#, SQL Server  
+
+---
+
+### 👶 Nestlings Marketplace
+Childcare service platform with bookings, dashboards, reviews, and chatbot.  
+**Tech:** PHP, MySQL  
+
+---
+
+### 🏨 Echo Hotel Reservation System
+Hotel booking system with availability checking and admin management.  
+**Tech:** PHP, MySQL  
+
+---
+
+### 🚖 Auto Cars System
+Taxi reservation system with system analysis and feasibility planning.  
+
+---
+
+### 📊 Data Science Dashboard
+Interactive business dashboards and insights using Power BI.  
+
+---
+
+### 📸 Malcolm Photography Website
+Portfolio website with gallery and booking features.  
+**Tech:** HTML, CSS, JavaScript, PHP  
+
+---
+
+## 🎯 Current Focus
+
+- Quality Assurance & Testing  
+- Building modern web apps  
+- Clean UI design  
+- Data-driven systems  
+
+---
+
+## 🌐 Languages
+
+- English – Fluent  
+- Sinhala – Fluent  
+
+---
+
+## 📫 Connect With Me
+
+<p>
   <a href="https://www.linkedin.com/in/shanka-liyanage-04a08331">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:shankaliyanage214@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Shanka214">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://sanka-bytes.lovable.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0f766e?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-### 🚀 Software Engineering Graduate
-[cite_start]I am a **BEng (Hons) in Software Engineering** graduate from London Metropolitan University[cite: 7, 26]. [cite_start]I specialize in building full-stack applications and have a growing passion for **Quality Assurance and Software Testing**[cite: 28]. [cite_start]My goal is to contribute to innovative, high-quality software solutions in a professional environment[cite: 29].
-
-- [cite_start]🔭 **Currently focusing on:** Enhancing my skills in QA automation and performance testing[cite: 28].
-- 🌱 **Learning:** Advanced cloud UI design and agentic systems.
-- [cite_start]💬 **Ask me about:** Web development (PHP, ASP.NET), Database management, and Figma prototyping[cite: 13, 16, 18, 31].
-- [cite_start]⚡ **Fun Fact:** I once organized a soft skills workshop for over 50 students! [cite: 41]
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| --- | --- |
-| **Languages** | [cite_start]Python, Java, C#, PHP, HTML, CSS, JavaScript [cite: 14, 15] |
-| **Frameworks/Web** | [cite_start]ASP.NET, Bootstrap, WordPress [cite: 14, 31] |
-| **Databases** | [cite_start]SQL Server, MySQL, MS SQL [cite: 17, 31, 38] |
-| **Design & Data** | [cite_start]Figma, Power BI [cite: 18, 35, 36] |
-| **Tools/Other** | [cite_start]Cisco Packet Tracer, MS 365 [cite: 15, 40] |
-
----
-
-### 📂 Featured Projects
-
-#### 🎫 **StarEvents Ticketing System**
-[cite_start]Developed a full event booking platform using **ASP.NET and C#** featuring secure payments and QR ticket generation[cite: 31].
-
-#### 🐣 **Nestlings Marketplace**
-[cite_start]A childcare platform featuring a booking system, dashboards, reviews, and an **AI chatbot**[cite: 32, 33].
-
-#### 📊 **Data Science & Analytics**
-[cite_start]Created interactive dashboards using **Power BI** to provide data-driven insights and visualizations[cite: 35].
-
-#### 🎨 **E-Video Cloud UI**
-[cite_start]Designed high-fidelity interactive prototypes for a video streaming platform using **Figma**[cite: 36].
-
----
-
-### 💼 Professional Experience
-**Digital Content Creator Intern** | [cite_start]ISURU Creations (Pvt) Ltd [cite: 43, 44]
-[cite_start]*Jun 2025 – Nov 2025* [cite: 46]
-- [cite_start]Managed social media platforms and branding[cite: 45, 47].
-- [cite_start]Created engaging digital content, including posts and reels, to drive audience engagement[cite: 47].
-
----
-
-### 🎓 Education & Certifications
-- [cite_start]**BEng (Hons) Software Engineering** - London Metropolitan University [cite: 7, 26]
-- [cite_start]**Pearson BTEC (HND) in Software Engineering** - Achieved 13 Distinctions [cite: 8, 9]
-- [cite_start]**Diploma in IT** - ESOFT Metro Campus (Overall Distinction) [cite: 10]
-- [cite_start]**Speech & Drama** - International Institute of Music, Speech & Drama (Honours) [cite: 11]
-
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shanka214&show_icons=true&theme=radical" alt="Shanka's GitHub Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer"/>
 </p>
