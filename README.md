@@ -1,74 +1,86 @@
 <div align="center">
-  <h1>Sanka Liyanage</h1>
-  <h3>Software Engineering Graduate | QA Enthusiast | Full-Stack Developer</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/shankaliyanage-04a08331"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:shankaliyanage214@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://github.com/Shanka214"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=blogger&logoColor=white" alt="Portfolio"/></a>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=2C9F6E&center=true&vCenter=true&width=435&lines=Sanka+Liyanage;Software+Engineer;QA+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+  <br/>
+  <a href="https://www.linkedin.com/in/shankaliyanage-04a08331"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shankaliyanage214@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Shanka214"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a **BEng (Hons) Software Engineering** graduate with a strong foundation in programming, web development, databases, and data visualization. I have hands-on experience from academic projects, scenario-based exercises, and practical work.
+I'm a **BEng (Hons) Software Engineering** graduate passionate about building reliable, high‑quality software. With a solid foundation in **web development, databases, and data visualization**, I now focus on **Quality Assurance** and **software testing** to ensure systems are robust and user‑centric.
 
-- 🔍 Passionate about **Quality Assurance** and **software testing** — ensuring reliability, usability, and performance.
-- 🌱 Currently exploring **test automation** and **QA methodologies**.
-- 🤝 Open to collaborating on meaningful projects and contributing to innovative software solutions.
-
----
-
-## Tech Stack
-
-| Category       | Technologies |
-|----------------|--------------|
-| **Languages**  | Python, Java, C#, PHP |
-| **Frontend**   | HTML5, CSS3, Bootstrap, WordPress |
-| **Backend & DB** | ASP.NET, SQL Server, MySQL, MS SQL |
-| **Tools**      | Power BI, Figma, Git, Cisco Packet Tracer |
+- 🔭 I’m currently exploring **test automation** and **QA best practices**
+- 🌱 Always learning – currently diving deeper into **C#** and **ASP.NET Core**
+- 💬 Ask me about **full‑stack development**, **database design**, or **QA strategies**
+- ⚡ Fun fact: I've organized a soft‑skills workshop for 50+ students!
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Stack
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| **StarEvents Ticketing System** | ASP.NET, C#, SQL Server | Full event booking platform with secure payments, QR tickets & analytics. |
-| **Nestlings Marketplace** *(Final Year)* | PHP, MySQL, AI Chatbot | Childcare marketplace with booking, dashboards, reviews & AI chatbot. |
-| **Echo Hotel Reservation System** | PHP, MySQL | Hotel booking with availability, dynamic pricing & admin panel. |
-| **Grifindo Toys Payroll System** | C#, SQL Server | Payroll system handling salary, overtime & reporting. |
-| **Data Science Solution** | Power BI | Interactive dashboards for data visualization & insights. |
-| **Malcolm Photography Website** | HTML, CSS, JS, PHP | Responsive portfolio with gallery & inquiry system. |
-| **E-Video Cloud UI** | Figma | Interactive prototype for a video streaming platform. |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,cs,php,html,css,bootstrap,wordpress,dotnet,mysql,figma,git" />
+</div>
+
+<br/>
+
+| **Category**       | **Technologies**                                                                                     |
+|--------------------|------------------------------------------------------------------------------------------------------|
+| **Languages**      | Python, Java, C#, PHP                                                                               |
+| **Frontend**       | HTML5, CSS3, Bootstrap, WordPress                                                                    |
+| **Backend & DB**   | ASP.NET, SQL Server, MySQL, MS SQL                                                                  |
+| **Tools & Others** | Power BI, Figma, Git, Cisco Packet Tracer                                                           |
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| **StarEvents Ticketing System** | `ASP.NET` `C#` `SQL Server` | Event booking platform with secure payments, QR tickets & analytics dashboard |
+| **Nestlings Marketplace** *(Final Year)* | `PHP` `MySQL` `AI Chatbot` | Childcare marketplace – booking, reviews, dashboards, integrated AI chatbot |
+| **Echo Hotel Reservation System** | `PHP` `MySQL` | Hotel booking system with real‑time availability, pricing, admin panel |
+| **Grifindo Toys Payroll** | `C#` `SQL Server` | Payroll management – salary calculations, overtime, reporting |
+| **Data Science Solution** | `Power BI` | Interactive dashboards for business insights |
+| **Malcolm Photography Website** | `HTML` `CSS` `JS` `PHP` | Responsive portfolio with gallery & inquiry form |
+| **E-Video Cloud UI** | `Figma` | High‑fidelity prototype for a video streaming platform |
 
 <details>
-<summary>📁 More Projects</summary>
+<summary>📁 More projects & research</summary>
 
-- **Auto Cars System** – Taxi reservation system with feasibility analysis.  
-- **Quiet Attic Films DB** – Relational database for business use (MS SQL).  
-- **Big Data Research** – Operational efficiency analysis for SITREK Group.  
-- **Alliance Health LAN** – VLAN-based network design (Cisco Packet Tracer).  
-- **Soft Skills Workshop** – Organized training for 50+ students at ESOFT Metro Campus.
+- **Auto Cars System** – Taxi reservation system with feasibility analysis
+- **Quiet Attic Films DB** – Relational database system for business (MS SQL)
+- **Big Data Research** – Operational efficiency analysis for SITREK Group
+- **Alliance Health LAN** – VLAN‑based network design with routing (Cisco Packet Tracer)
 
 </details>
 
 ---
 
-## Experience
+## 💼 Experience
 
 **Digital Content Creator Intern**  
 *ISURU Creations (Pvt) Ltd* | 6 Months  
-- Managed company social media platforms, creating engaging posts, reels, and digital content.  
-- Maintained online presence and branding; supported content planning and audience engagement.
+- Managed social media, created engaging posts & reels  
+- Maintained online branding and supported content strategy
 
 ---
 
-## Let's Connect
+## 📫 Let’s Connect
 
-📧 **Email**: shankaliyanage214@gmail.com  
-💼 **LinkedIn**: [linkedin.com/in/shankaliyanage-04a08331](https://www.linkedin.com/in/shankaliyanage-04a08331)  
-🐙 **GitHub**: [github.com/Shanka214](https://github.com/Shanka214)  
-🌐 **Portfolio**: *coming soon*
+I'm open to collaborating on exciting projects, discussing QA opportunities, or just having a tech chat. Reach out anytime!
+
+<div align="center">
+  <a href="mailto:shankaliyanage214@gmail.com"><img src="https://img.shields.io/badge/Email-shankaliyanage214%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shankaliyanage-04a08331"><img src="https://img.shields.io/badge/LinkedIn-Sanka%20Liyanage-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Shanka214"><img src="https://img.shields.io/badge/GitHub-Shanka214-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</div>
+
+<br/>
+<div align="center">
+  <i>“Building reliable, user‑focused software with a passion for quality.”</i>
+</div>
