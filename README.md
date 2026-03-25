@@ -49,46 +49,43 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### 💻 Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cs,php" />
-</p>
 
-### 🌐 Frontend
-<p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,figma,wordpress" />
-</p>
 
-### ⚙️ Backend & Databases
-<p>
   <img src="https://skillicons.dev/icons?i=dotnet,mysql,sqlite,postgres" />
-</p>
 
-### 📊 Tools & Platforms
-<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,azure,stackoverflow" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
 </p>
 
----
 
-## 📈 GitHub Analytics
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/Shanka214">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shanka214&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanka214&layout=compact&langs_count=7&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-  </a>
-</p>
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanka214&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" alt="GitHub Streak" />
-</p>
+### ⚙️ Backend & Databases
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shanka214&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+### 📊 Tools & Platforms
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 ---
 
@@ -135,11 +132,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/Shanka214/Shanka214/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,15,30&height=120&section=footer"/>
